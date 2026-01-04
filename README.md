@@ -1,1 +1,1 @@
-# trader-behaviour-imsights
+# trader-behaviour-insights
