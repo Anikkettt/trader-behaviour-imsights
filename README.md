@@ -1,4 +1,4 @@
-# Trader-Behavior-Insights
+# Trader-Behaviour-Insights
 
 This repository contains analysis of trader performance vs market sentiment.
 1. Overview
